@@ -3,7 +3,7 @@ layout: post
 title: Guilda
 ---
 
-Guilda example GO
+Guilda unleashes the power of trust
 
 > Nec amet pericula dissentiet...
 >
