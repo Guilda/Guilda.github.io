@@ -15,6 +15,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://guilda.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
+pages:
+  - Team
+  - About
+  - Contact
+
 name: 'Guilda'
 bio: >
   Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
